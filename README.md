@@ -45,10 +45,6 @@ If you want to contribute to this project, follow these steps:
 
 This project is licensed under the [MIT License](License.txt).
 
-## Acknowledgments
-
-- Special thanks to [mention any external libraries or resources you used].
-
 ## Contact
 
 Feel free to contribute and enjoy the gaming experience!
