@@ -9,9 +9,11 @@
 - Increasing difficulty levels as the player progresses.
 
 ## Screenshots
-![Screenshot 1](photo_2024-02-17_13-56-18.jpg)
-![Screenshot 2](photo_2024-02-17_13-56-22.jpg)
-![Screenshot 2](photo_2024-02-17_13-56-12.jpg)
+<div align="center">
+  <img src="photo_2024-02-17_13-56-18.jpg" alt="Screenshot 1" width="250" />
+  <img src="photo_2024-02-17_13-56-22.jpg" alt="Screenshot 2" width="250" />
+  <img src="photo_2024-02-17_13-56-12.jpg" alt="Screenshot 3" width="250" />
+</div>
 
 ## Installation
 1. Clone the repository.
